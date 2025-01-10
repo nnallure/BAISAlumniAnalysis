@@ -74,9 +74,3 @@ Install any missing packages using `install.packages()`.
    - Summary statistics in the console.
    - Visualizations displayed in the R plotting window.
 
----
-
-## Sample Outputs
-
-### Summary Statistics
-
